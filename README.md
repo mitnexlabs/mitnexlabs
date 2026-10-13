@@ -105,14 +105,37 @@ I'm building my cybersecurity skills step by step, exploring both how attacks wo
 
 ## `04 // Current Learning Path`
 
-- [ ] Strengthen networking fundamentals: TCP/IP, DNS, HTTP, and ports.
-- [ ] Improve Linux and Bash command-line skills.
-- [ ] Practice Python scripting and file processing.
-- [ ] Study web security in authorized environments.
-- [ ] Learn log analysis and basic incident response.
-- [ ] Publish my first documented cybersecurity project.
-- [ ] Write my first CTF walkthrough.
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🔴 Red Team</h3>
+      <ul>
+        <li>Networking fundamentals</li>
+        <li>Linux command line</li>
+        <li>Python scripting</li>
+        <li>Web security fundamentals</li>
+        <li>Authorized penetration testing labs</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🔵 Blue Team</h3>
+      <ul>
+        <li>Log analysis</li>
+        <li>Threat detection fundamentals</li>
+        <li>Indicators of compromise</li>
+        <li>Security monitoring</li>
+        <li>Incident response basics</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Current%20Focus-Python%20%7C%20Linux-0D1117?style=flat-square&logo=github&logoColor=white" alt="Current learning focus" />
+  <img src="https://img.shields.io/badge/Approach-Practice%20%26%20Document-0D1117?style=flat-square" alt="Practice and document" />
+</p>
+
+> My goal is to understand both sides of security: how weaknesses are discovered and how threats are detected and prevented.
 ## `05 // GitHub Activity`
 
 <p align="center">
