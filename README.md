@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/cyber-banner.svg" width="100%" alt="MITNEXLABS Cybersecurity Banner">
+</p>
 # `> MITNEX // CYBERSECURITY`
 
 <p align="center">
