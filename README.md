@@ -102,7 +102,6 @@ I'm building my cybersecurity skills step by step, exploring both how attacks wo
   <sub>Projects will be linked here as their repositories are created and documented.</sub>
 </p>
 
-`CTF` `Writeups` `Security Research`
 
 ## `04 // Current Learning Path`
 
