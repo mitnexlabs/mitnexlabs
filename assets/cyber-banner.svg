@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020817"/>
+      <stop offset="100%" stop-color="#071a30"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00e5ff"/>
+      <stop offset="100%" stop-color="#3984ff"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#164267" stroke-width="0.7" opacity=".55"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <rect x="18" y="18" width="1164" height="264" rx="12" fill="none" stroke="#155b83" stroke-width="1.5"/>
+  <circle cx="42" cy="42" r="5" fill="#ff5f57"/>
+  <circle cx="60" cy="42" r="5" fill="#febc2e"/>
+  <circle cx="78" cy="42" r="5" fill="#28c840"/>
+  <text x="100" y="47" fill="#8ba9c5" font-family="monospace" font-size="15">root@mitnexlabs:~</text>
+  <text x="1150" y="47" text-anchor="end" fill="#51d9ff" font-family="monospace" font-size="14">SYSTEM ONLINE</text>
+  <path d="M60 72H1140" stroke="#155b83"/>
+  <text x="600" y="145" text-anchor="middle" fill="url(#neon)" font-family="monospace" font-size="57" font-weight="bold" letter-spacing="4">MITNEXLABS</text>
+  <text x="600" y="185" text-anchor="middle" fill="#d9eaff" font-family="monospace" font-size="19">CYBERSECURITY  /  RED TEAM  ×  BLUE TEAM</text>
+  <path d="M300 210H900" stroke="#147da8" stroke-width="1"/>
+  <text x="600" y="243" text-anchor="middle" fill="#55d6ff" font-family="monospace" font-size="16">LEARN  ·  TEST  ·  DETECT  ·  DEFEND</text>
+  <text x="40" y="265" fill="#367b9f" font-family="monospace" font-size="11">[ AUTHORIZED LABS ONLY ]</text>
+  <text x="1160" y="265" text-anchor="end" fill="#367b9f" font-family="monospace" font-size="11">SECURE BY DESIGN</text>
+</svg>
