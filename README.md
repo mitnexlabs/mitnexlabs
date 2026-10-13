@@ -65,37 +65,42 @@ I'm building my cybersecurity skills step by step, exploring both how attacks wo
 
 ## `03 // Project Showcase`
 
-Projects will be added as they are developed and documented. The ideas below are planned projects, not completed work.
+<p align="center">
+  <i>Building practical skills through documented, hands-on security projects.</i>
+</p>
 
-### 🔎 Security Automation Lab
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>⌕ Security Automation</h3>
+      <p>Beginner-friendly Python scripts for security-related tasks and automation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Planned-334155?style=flat-square" alt="Planned" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>▣ Blue Team Log Analyzer</h3>
+      <p>A learning project to parse sample logs and identify suspicious patterns.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Planned-334155?style=flat-square" alt="Planned" />
+        <img src="https://img.shields.io/badge/Focus-Detection-15803D?style=flat-square" alt="Detection" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⌘ Cyber Lab Notes</h3>
+      <p>Organized notes on Linux, networking, CTF challenges, and security fundamentals.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Planned-334155?style=flat-square" alt="Planned" />
+        <img src="https://img.shields.io/badge/Focus-Learning-0369A1?style=flat-square" alt="Learning" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-**Status:** Planned
-
-A collection of beginner-friendly Python scripts for security-related tasks and automation.
-
-`Python` `Automation` `Security`
-
-### 🛡️ Blue Team Log Analyzer
-
-**Status:** Planned
-
-A Python tool to parse sample logs, identify suspicious patterns, and generate readable summaries.
-
-`Python` `Log Analysis` `Detection`
-
-### 🧪 Cybersecurity Lab Notes
-
-**Status:** Planned
-
-A structured knowledge base for Linux, networking, authorized labs, and security fundamentals.
-
-`Linux` `CTF` `Documentation`
-
-### 📚 CTF Writeups
-
-**Status:** Planned
-
-Writeups documenting completed challenges, methodology, lessons learned, and defensive takeaways.
+<p align="center">
+  <sub>Projects will be linked here as their repositories are created and documented.</sub>
+</p>
 
 `CTF` `Writeups` `Security Research`
 
