@@ -1,171 +1,76 @@
 <p align="center">
   <img src="assets/cyber-banner.svg" width="100%" alt="MITNEXLABS Cybersecurity Banner">
 </p>
-# `> MITNEX // CYBERSECURITY`
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=Learning+Cybersecurity;Red+Team+%7C+Blue+Team;Learn.+Test.+Detect.+Defend." alt="Animated cybersecurity terminal text" />
-</p>
+# MITNEX // Cybersecurity
 
 <p align="center">
   <strong>Cybersecurity Learner · Python · Linux</strong>
   <br />
-  Building a foundation in offensive and defensive security.
+  Learning to understand threats and build better defenses.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Red%20Team-252525?style=flat-square" alt="Red Team" />
-  <img src="https://img.shields.io/badge/Focus-Blue%20Team-252525?style=flat-square" alt="Blue Team" />
-  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Environment-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <a href="https://github.com/mitnexlabs">
+    <img src="https://img.shields.io/badge/GitHub-mitnexlabs-161B22?style=flat-square&logo=github" alt="GitHub profile" />
+  </a>
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-Learning-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
 
-## `01 // About Me`
+## About Me
 
 ```bash
 $ whoami
 Cybersecurity learner
 
 $ interests
-Offensive Security | Defensive Security
+Red Team | Blue Team
 
-$ tools
-Python | Linux
-
-$ mission
-Understand threats. Build defenses. Keep learning.
+$ current_focus
+Python, Linux, networking, security fundamentals
 ```
 
-I'm building my cybersecurity skills step by step, exploring both how attacks work and how systems can be protected.
+I'm building my cybersecurity knowledge through hands-on practice, research, and documentation.
 
-- 🔴 Exploring Red Team concepts and ethical penetration testing.
-- 🔵 Learning Blue Team fundamentals, threat detection, and incident response.
-- 🐍 Practicing Python for scripting and security automation.
-- 🐧 Strengthening Linux and command-line fundamentals.
-- 🧪 Practicing in authorized labs and CTF environments.
-- 📝 Documenting my learning journey and technical notes.
+- Learning offensive and defensive security fundamentals.
+- Practicing Python and Linux.
+- Exploring networking, log analysis, and web security.
+- Studying through authorized labs and CTF challenges.
 
-## `02 // Tech Stack`
+## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git" alt="Python, Linux, Bash, and Git" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git" alt="Python, Linux, Bash, Git" />
 </p>
 
-| Area | Current focus |
-|---|---|
-| Programming | Python fundamentals and scripting |
-| Operating Systems | Linux and command-line workflows |
-| Red Team | Networking, reconnaissance concepts, web security fundamentals |
-| Blue Team | Log analysis, threat detection, security monitoring fundamentals |
-| Workflow | Git, documentation, reproducible labs |
+## Projects
 
-*These are learning areas, not claims of professional proficiency.*
+| Project | Description | Status |
+|---|---|---|
+| Security Automation | Beginner Python security scripts | Planned |
+| Blue Team Log Analyzer | Analyze sample logs for suspicious patterns | Planned |
+| Cyber Lab Notes | Linux, networking, and security notes | Planned |
 
-## `03 // Project Showcase`
+## Learning Path
 
-<p align="center">
-  <i>Building practical skills through documented, hands-on security projects.</i>
-</p>
+- [ ] Networking fundamentals
+- [ ] Linux and Bash
+- [ ] Python scripting
+- [ ] Web security in authorized labs
+- [ ] Log analysis and threat detection
+- [ ] First documented security project
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>⌕ Security Automation</h3>
-      <p>Beginner-friendly Python scripts for security-related tasks and automation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Planned-334155?style=flat-square" alt="Planned" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>▣ Blue Team Log Analyzer</h3>
-      <p>A learning project to parse sample logs and identify suspicious patterns.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Planned-334155?style=flat-square" alt="Planned" />
-        <img src="https://img.shields.io/badge/Focus-Detection-15803D?style=flat-square" alt="Detection" />
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>⌘ Cyber Lab Notes</h3>
-      <p>Organized notes on Linux, networking, CTF challenges, and security fundamentals.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Planned-334155?style=flat-square" alt="Planned" />
-        <img src="https://img.shields.io/badge/Focus-Learning-0369A1?style=flat-square" alt="Learning" />
-      </p>
-    </td>
-  </tr>
-</table>
+## GitHub Activity
 
 <p align="center">
-  <sub>Projects will be linked here as their repositories are created and documented.</sub>
-</p>
-
-
-## `04 // Current Learning Path`
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🔴 Red Team</h3>
-      <ul>
-        <li>Networking fundamentals</li>
-        <li>Linux command line</li>
-        <li>Python scripting</li>
-        <li>Web security fundamentals</li>
-        <li>Authorized penetration testing labs</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3>🔵 Blue Team</h3>
-      <ul>
-        <li>Log analysis</li>
-        <li>Threat detection fundamentals</li>
-        <li>Indicators of compromise</li>
-        <li>Security monitoring</li>
-        <li>Incident response basics</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Current%20Focus-Python%20%7C%20Linux-0D1117?style=flat-square&logo=github&logoColor=white" alt="Current learning focus" />
-  <img src="https://img.shields.io/badge/Approach-Practice%20%26%20Document-0D1117?style=flat-square" alt="Practice and document" />
-</p>
-
-> My goal is to understand both sides of security: how weaknesses are discovered and how threats are detected and prevented.
-## `05 // GitHub Activity`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mitnexlabs&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=22D3EE" width="49%" alt="MITNEXLABS GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitnexlabs&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" width="49%" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Red%20Team-Learning-111827?style=flat-square&labelColor=111827&color=38BDF8" alt="Red Team learning" />
-  <img src="https://img.shields.io/badge/Blue%20Team-Learning-111827?style=flat-square&labelColor=111827&color=22C55E" alt="Blue Team learning" />
-  <img src="https://img.shields.io/badge/Python-Practice-111827?style=flat-square&logo=python&logoColor=3776AB" alt="Python practice" />
-  <img src="https://img.shields.io/badge/Linux-Practice-111827?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux practice" />
-</p>
-
-*Statistics are based on available public repository data and may not reflect all activity.*
-
-## `06 // Connect`
-
-<p align="center">
-  <a href="https://github.com/mitnexlabs">
-    <img src="https://img.shields.io/badge/GitHub-mitnexlabs-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit the mitnexlabs GitHub profile" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mitnexlabs&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=22D3EE" height="160" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitnexlabs&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" height="160" alt="Most used languages" />
 </p>
 
 ---
 
 <p align="center">
   <code>LEARN ETHICALLY · TEST RESPONSIBLY · DEFEND INTELLIGENTLY</code>
-</p>
-
-<p align="center">
-  <sub>Every expert was once a beginner.</sub>
 </p>
