@@ -112,14 +112,18 @@ Writeups documenting completed challenges, methodology, lessons learned, and def
 ## `05 // GitHub Activity`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mitnexlabs&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics for mitnexlabs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mitnexlabs&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=22D3EE" width="49%" alt="MITNEXLABS GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitnexlabs&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" width="49%" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitnexlabs&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages for mitnexlabs" />
+  <img src="https://img.shields.io/badge/Red%20Team-Learning-111827?style=flat-square&labelColor=111827&color=38BDF8" alt="Red Team learning" />
+  <img src="https://img.shields.io/badge/Blue%20Team-Learning-111827?style=flat-square&labelColor=111827&color=22C55E" alt="Blue Team learning" />
+  <img src="https://img.shields.io/badge/Python-Practice-111827?style=flat-square&logo=python&logoColor=3776AB" alt="Python practice" />
+  <img src="https://img.shields.io/badge/Linux-Practice-111827?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux practice" />
 </p>
 
-*Statistics depend on the repositories and data available to the service. They do not measure cybersecurity proficiency.*
+*Statistics are based on available public repository data and may not reflect all activity.*
 
 ## `06 // Connect`
 
