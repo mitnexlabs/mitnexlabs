@@ -34,7 +34,7 @@
 <rect x="1" y="1" width="1198" height="548" rx="8" stroke="url(#edge)" stroke-width="1.4" fill="none"/>
 <path d="M37 38h34M37 38v34 M1163 38h-34M1163 38v34 M37 512h34M37 512v-34 M1163 512h-34M1163 512v-34" fill="none" stroke="#bed0dd" stroke-opacity=".44" stroke-width="1.4"/>
 <g font-family="Inter, Arial, sans-serif">
-<text x="62" y="75" fill="#f3f6f9" font-size="18" font-weight="750" letter-spacing="6">YOURNAME</text>
+<text x="62" y="75" fill="#f3f6f9" font-size="18" font-weight="750" letter-spacing="6">Mitnex</text>
 <text x="249" y="75" fill="#8c9da9" font-size="18" font-weight="300" letter-spacing="5">/ LABS</text>
 <path d="M62 93H465" stroke="#82939f" stroke-opacity=".4"/>
 <text x="62" y="126" fill="#9fb4c1" font-size="12" letter-spacing="6">BUILD  /  CODE  /  INNOVATE</text>
