@@ -1,48 +1,50 @@
+<!--
+╔══════════════════════════════════════════════════════════════════╗
+║               Mitnex / LABS — PROFILE README                   ║
+║  Personalize YOURNAME, yourname@dev and the links below.          ║
+║  Edit text inside assets/*.svg to customize visual elements.     ║
+║  No GitHub stats, fake metrics, or external image dependencies.   ║
+╚══════════════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
 
-# Mitnex | LABS
+<img src="./assets/hero.svg" alt="YOURNAME LABS — Building what's next" width="100%" />
 
-### BUILD / CODE / INNOVATE
+<br/>
 
-**Building what's next.**
+<img src="./assets/terminal.svg" alt="Terminal: build -- innovate -- ship" width="100%" />
 
-Modern web applications • Clean code • AI-powered development
+<br/>
 
----
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/tech-stack.svg" alt="Tech Stack: Next.js, React, TypeScript, Node.js, PostgreSQL, MongoDB, Tailwind CSS, Git, Docker, AWS, VS Code, Python" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/working-on.svg" alt="Current Focus: Modern Web Applications, AI Integration, Developer Tools, Open Source" width="100%" />
+    </td>
+  </tr>
+</table>
 
-### ABOUT ME
+<br/>
 
-I'm a developer interested in building modern,
-scalable and user-friendly applications.
+<img src="./assets/principles.svg" alt="My approach: Clean by design, Built to scale, Always evolving" width="100%" />
 
-Currently learning new technologies and building projects.
+<br/>
 
-### TECH STACK
+### `LET'S CONNECT`
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,postgres,mongodb,git,docker,aws,vscode&perline=6" />
+<!-- Replace YOUR_USERNAME with your real GitHub username. -->
+<a href="https://github.com/mitnexlabs"><img src="https://img.shields.io/badge/GITHUB-111820?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/xx/"><img src="https://img.shields.io/badge/LINKEDIN-111820?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:xx@example.com"><img src="https://img.shields.io/badge/EMAIL-111820?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-### WHAT I'M WORKING ON
+<br/><br/>
 
-**Modern Web Applications**  
-Building responsive and user-friendly websites.
-
-**AI Integration**  
-Exploring artificial intelligence tools.
-
-**Developer Tools**  
-Learning and improving development workflows.
-
----
-
-### GITHUB STATS
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" width="49%" />
-
----
-
-`build -- innovate -- ship`
+<img src="./assets/footer.svg" alt="YOURNAME LABS — Engineering beyond the ordinary" width="100%" />
 
 </div>
+
+<!-- Prefer real work to vanity metrics. Replace the sample technology list with tools you actually use. -->
